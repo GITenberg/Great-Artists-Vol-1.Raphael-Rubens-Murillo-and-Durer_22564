@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25416'
     url: http://www.gutenberg.org/2009/agents/25416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22564#Great-Artists-Vol-1.Raphael-Rubens-Murillo-and-Durer
 gutenberg_bookshelf: Art
 gutenberg_issued: '2007-09-10'
 gutenberg_type: Text
